@@ -1,15 +1,12 @@
 {
-  "name": "eslint-config",
-  "version": "1.0.0",
+  "name": "@openabnr/eslint-config",
+  "version": "0.0.1",
   "description": "ESLint configuration for Abonaro",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/openabnr/eslint-config.git"
-  },
+  "repository": "github:openabnr/eslint-config",
   "files": [
     "index.js",
     "react.js",
